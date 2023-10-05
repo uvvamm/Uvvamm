@@ -10,8 +10,8 @@
 
 - 🌱 &nbsp;I'm currently working as a .Net developer
 - 🎓 Graduated with a bachelor's degree in computer systems engineering
-- :computer: &nbsp;Connect with me on <a href="[https://www.mozilla.com/](https://www.linkedin.com/in/ubaldo-enriquez-185364171)">Ubaldo E</a>
-- 📫 How to reach me **ubaldo-Enriquez**
+- :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/ubaldo-enriquez-185364171">Ubaldo E</a>
+- 📫 How to reach me **ubaldo-Enriquez@outlook.com**
 - 🌱 I’m currently learning ...
 
 - 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
