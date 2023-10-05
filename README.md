@@ -19,6 +19,8 @@ Here are some ideas to get you started:
  
 ### Hi there 👋 I am Ubaldo Enriquez
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=11F7BF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScrip+%7C+TypeScript+%7C+C%23" alt="Typing SVG" /></a>
+
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
 
