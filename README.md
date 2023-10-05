@@ -8,19 +8,12 @@
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
 
-- 🌱 &nbsp;I'm currently 
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 🌱 &nbsp;I'm currently working as a .Net developer
+- 🎓 Graduated with a bachelor's degree in computer systems engineering
+- :computer: &nbsp;Connect with me on <a href="[https://www.mozilla.com/](https://www.linkedin.com/in/ubaldo-enriquez-185364171)">Ubaldo E</a>
 - 📫 How to reach me **ubaldo-Enriquez**
-- 💬 Ask me about: anything, I am happy
-
-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 - 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
 	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
@@ -32,7 +25,6 @@
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uvvamm&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=uvvamm&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
-</p>
+
 
 <br><br><br><br><br><br><br><br>
