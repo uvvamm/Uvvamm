@@ -11,7 +11,7 @@
 - 🌱 &nbsp;I'm currently working as a .Net developer
 - 🎓 Graduated with a bachelor's degree in computer systems engineering
 - :computer: &nbsp;Connect with me on LinkedIn <a href="https://www.linkedin.com/in/ubaldo-enriquez-185364171">Ubaldo E</a>
-- 📫 How to reach me **ubaldo-Enriquez@outlook.com**
+- 📫 How to reach me ** ubaldodev@outlook.com**
 - 🌱 I’m currently learning ...
 
 <h2> Skills </h2>
